@@ -1,0 +1,517 @@
+---
+title: "ENTREGA FINAL"
+author: "Marina Davier y Diego Volta"
+date: "12/16/2021"
+output: rmdformats::readthedown
+---
+
+**Título:** Un análisis a los factores estructurales de la desigualdad de género a nivel mundial
+
+
+------
+
+**Integrantes:** 
+
++ Diego Martín Volta Cueto (20190633)
+
++ Marina Rosa Davier Albarracin (20190148)
+
+**Tipo de evaluación:**
+
++ Entrega Final
+
+**Curso:**
+
++ Estadística para el Análisis Político 2 
+
+**Profesora:**
+
++ Marylía Cruz
+
+------
+
+# Introducción
+
+La desigualdad de género a nivel mundial es un problema estructural, de años y que se expande por todo el mundo, pero con distintos grados, por lo que se puede afirmar que existen una desigualdad mundial en la desigualdad de género. Ante ello, las relaciones entre mujeres y hombres desempeñan un papel importante en la plasmación, evolución y transformación de valores, normas y prácticas culturales de una sociedad, los cuales, son capaces de determinar dichas relaciones (entre hombres y mujeres). Sobre ello, son relaciones que evolucionan con el tiempo y en las que influyen factores socioeconómicos, políticos y culturales (UNESCO, p. 104). 
+
+Como menciona el Ministerio de la Mujer y Poblaciones Vulnerables, la desigualdad de género es un problema que afecta principalmente a las mujeres e influye negativamente en el desarrollo regional y local (MIMP, 2017, p. 6). Como se puede apreciar, la desigualdad de género es, también, un problema público, por lo que tiene un espacio especial en la agenda de la Ciencia Política, en tanto las políticas públicas y la gestión pública deben estar orientados a poder reducir la desigualdad de género. En esa línea, para el MIMP, la desigualdad de género es un problema público debido a que afecta a de manera individual y colectiva especialmente a las mujeres, limitándolas en el ejercicio de sus derechos políticos, económicos, sociales y culturales (MIMP, 2017, p. 7). Pero la desigualdad de género no es solo un problema de Perú, ni de los países en vías de desarrollo. Es por ello que, para ver qué produce la desiguadlad de género, así como los distitnos niveles de esta en el mundo, un análisis a nivel mundial resulta interesante y de sumo provecho para la comunidad científica. De igual forma, en línea con lo desarrollado por el MIMP respecto a al ejercicio dederechos por parte de las mujeres, se trabajará con las siguientes varaibles: 
+
++	Autonomía reproductiva: mide si el marco legal protege la salud y los derechos reproductivos de las mujeres
+
++	Violencia contra la mujer: mide si el marco legal protege a las mujeres de la violencia, incluida la violencia de pareja, la violación y el acoso sexual, sin excepciones legales y con un enfoque integral
+
++	Voz política: porcentaje de mujeres del número total de representantes de la cámara baja o única del parlamento
+
++	Libertad de movimiento: porcentaje de mujeres sobre el total de personas que declaran no sentirse seguras caminando solas de noche en la ciudad o zona donde viven
+
++	Acceso a la justicia: porcentaje de mujeres sobre el total de personas que declaran no tener confianza en el sistema judicial y los tribunales de su país
+
++	Población con secundaria completa: porcentaje de la población de 25 años o más que ha alcanzado (pero no necesariamente completado) un nivel de educación secundaria
+
++	Tasa total de desempleo de las mujeres: proporción de mujeres a hombres que están desempleadas
+
++	Mujeres con una cuenta financiera en alguna institución: porcentaje de la población femenina de 15 años o más que tiene una cuenta en una institución financiera
+
+La importancia de estas variables radica en la importancia que la UNESCO le brinda a los factores económicos, sociales y políticos, los mismos que evolucionan y se combinan para influir en las relaciones entre mujeres y hombres (UNESCO, p. 104), por lo que analizarlos implica abordar íntegramente los factores esenciales. En ese sentido, se pueden agrupar las variables según su ámbito:
+
++	Social: Autonomía reproductiva, violencia contra la mujer, libertad de movimiento, población con secundaria completa
+
++	Económico: Tasa total de desempleo de las mujeres, mujeres con una cuenta financiera en alguna institución
+
++	Político: Voz política, acceso a la justicia
+
+Por un lado, las variables de voz política, secundaria completa y desempleo mujeres son importantes dado sus niveles de injerencia en la persona y en las sociedades en su conjunto, es bastante alto al momento de referirnos a la desigualdad de género. De hecho, tener (o por lo menos alcanzar) estudios secundarios en la sociedad actual abre el camino para poder tener otro tipo de estudios superiores y posteriormente, tener empleos mejores. De esta forma, estas variables indican la necesidad de mitigar la brecha de género existente. 
+
+Como desarrolla Ana Miranda en su artículo de investigación, existe una desigualdad de género en cuanto a la continuidad educativa y desempeño escolar, así como en el acceso al mundo laboral, precisamente, con raíces en esta desigualdad de género. Asimismo, como desarrolla María Ribas, existe una discriminación laboral perenne que las mujeres tienen que sufrir, que va desde no poder acceder a un trabajo hasta no ser tan bien remuneradas como sus pares varones, a pesar de realizar las mismas actividades. Incluso, ella menciona que este tipo de diferencias laborales se manifiestan en diversos niveles, como lo económico, social, familiar, entre otros. Ello termina agravando la situación desventajosa de las mujeres. 
+
+De esta manera, el hecho de no poder acceder y completar una educación básica (educación secundaria), a raíz de barreras de género, es que se termina reproduciendo en otros ámbitos, como el laboral e incluso la política (con la subrepresentación de las mujeres). 
+
+Por otro lado, la literatura nos permite notar una desigualdad de género ya que como señala Rodo, se ha observado la cuestión del derecho al espacio público, libertad de movimiento y el goce sin limitaciones y con seguridad de este por parte de las mujeres ya que la forma que se vive en el espacio público es diferente pues no es lo mismo ser una mujer que un hombre en el espacio público debido a que la movilidad espacial de los hombres está menos controlada que la de las chicas marcada por rol de género (2016, p. 27). 
+
+Asimismo, el desemplo sigue reflejando grandes brechas de género en el acceso a oportunidades y derechos entre hombres y mujeres. Las desigualdades tienen su base en un sistema social que reproduce estereotipos y conserva una división sexual del trabajo que limita la inserción laboral de las mujeres. Estos factores estructurales representan un obstáculo para la superación de la pobreza y la desigualdad, así como para la consecución de la autonomía económica de las mujeres, más aún si se considera el contexto actual de contracción del crecimiento (Vasquez 2017, p. 40). Mientras que desde el enfoque de género, el histórico contrato social que ha diferenciado los espacios de acción para hombres y mujeres, ha marginado a éstas últimas de la esfera pública. Con este escenario, difícilmente podrán las mujeres lograr el agenciamiento óptimo de sus necesidades y demandas. Resulta ineludible, entonces, su incorporación en las esferas de poder y toma de decisiones, a fin de que se generen agendas de género pertinentes y con ello contribuir, asimismo, a la profundización de la democracia con un nuevo carácter de legitimidad y representatividad pluralista y paritaria entre hombres y mujeres.
+
+Tras haber hecho un repaso a la literatura actual en la materia, a continuación se plantea el objetivo general del presente reporte, el que es analizar cuáles son los factores que permiten comprender la desigualdad de género en el mundo. De esta forma, los objetivos específicos son: i) identificar la relevancia de los factores sociales como determinantes para explicar la desigualdad de género en el mundo; ii) presentar las variables más capaces de explicar la desigualdad de género; iii) evidenciar los distintos niveles de desiguadlad de género en mundo, así como de aquellas variables que explican cada caso. 
+
+Con relación al problema público identificado, los factores asociados a este y los objetivos planteados, surge la siguiente pregunta de investigación:
+
+¿Qué tipo de factores explican la desigualdad de género a nivel mundial? 
+
+Ante ello, se plantea la siguiente hipótesis:
+
+Los factores del tipo social son los que mejor explican la desigualdad de género a nivel mundial.
+
+Ello se encuentra respaldado en que los factores sociales se encuentran comprendidos desde la formación social, enseñanaza entre hombres y mujeres, marcando hitos iniciales de desigualdad de género, las cuales se van reproduciendo en el comportamiento y actitudes sociales en los posteriores años de vida, que terminan diferenciando en el trato y comportamiento individual y colectivo de hombres y mujeres. 
+
+La metodología utilizada para este trabajo ha sido experimental ya que hemos en un primer momento tratado de predecir las variables que pueden explicar más el porqué de la desigualdad para poder también entender un análisis descriptivo en el que nos muestre también que factores estan correlacionado y cual es la que explicaba más, asi poder que la variable que más explique poder ver posteriormente en que grupo por el análisis de factor común se encontraba y así poder comprobar nuestro muestre.
+
+Para análisis descriptivo hemos hecho un sumarry para poder los quartiles y los promedios de los datos de las variables y asi poder notar a grandes rasgos cuál es la variable con valores más altos y poder así continuar el análisis con el fin de comprobar nuestro análisis. Asimismo usamos histogramas y boxplots con el fin de gráficar los resultados en función de que valor es la que más se repite o cuanto son los porcentajes cuartiles de las variables.
+
+Por otro lado, hemos hecho la correlación de ciertas variables con la desigualdad para poder ver cual es la dirección entre algunas variables independientes con la dependiente de la desigualdad y poder comprobar si se encuentra correlacionadas para poder continuar con la investigación, ya que en todo caso si no funcionan las variables era necesario cambiar de método.
+
+Por otro lado hemos decidido hacer regresiones líneales múltiples mediante la elección de variables para poder predecir valores de desigualdad de un país y así también identificar un posible conjunto de variables que pueden explicar más un modelo y elegir el mejor.
+
+Posteriormente hemos hecho análisis exploratorio en el que mediante este buscamos comprobar nuestra hipotesis es por ello que hemos hecho subset para poder seleccionar las variables y ahcer asi una reducción de variables en la que esperamos que haya un factor que agrupe las variables que consideramso como parte del factor social y asi también confirmar nuestra hipotesis y poder tener una variable latente en ves de tener variables observadas.
+
+Asimismo hicimos un cluster en la que nos agrupen los países en grupos que tengan mayor y menor indice de desigualdad para poder asi también formar los grupos con variables similares que en este caso explicarian tambien la desigualdad.
+
+------
+
+```{r warning=FALSE, include=FALSE}
+library(rio)
+library(colourpicker)
+library(nortest)
+library(stargazer)
+library(dplyr)
+library(polycor)
+library(corrplot)
+library(cluster)
+library(factoextra)
+library(NbClust)
+library(tidyr)
+library(psych)
+library(GPArotation)
+library(BBmisc)
+library(car)
+data=import("desigualdad.xlsx")
+names(data)
+```
+
+## Relación de desigualdad con voz política:
+
+```{r warning=FALSE, include=FALSE}
+summary(data$VozPolitica)
+```
+
+```{r echo=FALSE, warning=FALSE}
+hist(data$VozPolitica,data = data, frame=TRUE, col=c("#2CA5AB", "#91B087"))
+boxplot(data$VozPolitica,data = data, frame=TRUE, col=c("#2CA5AB", "#91B087"))
+plot(data$VozPolitica,data$DesigualdadGenero)
+```
+
+## Variable dependiente desigualdad de género:
+
+```{r warning=FALSE, include=FALSE}
+summary(data$DesigualdadGenero)
+```
+
+```{r echo=FALSE, warning=FALSE}
+hist(data$DesigualdadGenero,data = data, frame=TRUE, col=c("#232E97", "#D4244F"))
+boxplot(data$DesigualdadGenero,data = data, frame=TRUE, col=c("#232E97", "#D4244F"))
+```
+
+## Relación de la desgigualdad y violencia contra la mujer en el marco legal:
+
+```{r warning=FALSE, include=FALSE}
+summary(data$MLViolencia)
+```
+
+```{r echo=FALSE, warning=FALSE}
+hist(data$MLViolencia,data = data, frame=TRUE, col=c("#33FFC1"))
+boxplot(data$MLViolencia,data = data, frame=TRUE, col=c("#33FFC1"))
+plot(data$MLViolencia,data$DesigualdadGenero)
+```
+
+## Relación de la desigualdad y el empleo:
+
+```{r warning=FALSE, include=FALSE}
+summary(data$DesempleoMuj)
+```
+
+```{r echo=FALSE, warning=FALSE}
+hist(data$DesempleoMuj,data = data, frame=TRUE, col=c("#C59AD8","#CACFD2"))
+boxplot(data$DesempleoMuj,data = data, frame=TRUE, col=c("#C59AD8"))
+plot(data$DesempleoMuj,data$DesigualdadGenero)
+```
+
+## Relación de la desigualdad y libertad de movilizaación:
+
+```{r warning=FALSE, include=FALSE}
+summary(data$LibertadMov)
+```
+
+```{r echo=FALSE, warning=FALSE}
+hist(data$LibertadMov,data = data, frame=TRUE, col=c("#F08080"))
+boxplot(data$LibertadMov,data = data, frame=TRUE, col=c("#F08080"))
+plot(data$LibertadMov,data$DesigualdadGenero)
+```
+
+# Correlaciones
+
+```{r echo=FALSE, warning=FALSE}
+lillie.test(data$DesigualdadGenero)
+lillie.test(data$VozPolitica)
+```
+
+Se aceptan la hipótesis nulas, es decir que la distribución no es normal.
+
+```{r echo=FALSE, warning=FALSE}
+cor.test(data$VozPolitica, data$DesigualdadGenero, method = c("spearman"))
+```
+
+Hay correlación, la cual es inversa y débil.
+
+
+## Correlación de la variable libertad de movimiento:
+
+```{r echo=FALSE, warning=FALSE}
+lillie.test(data$DesigualdadGenero)
+lillie.test(data$LibertadMov)
+```
+
+Ambas variables tienen una distribución que no son normales.
+
+```{r echo=FALSE, warning=FALSE}
+cor.test(data$LibertadMov, data$DesigualdadGenero, method = c("spearman"))
+```
+
+Sí hay una correlación entre ambs variables, la cual es inversa y débil.
+
+## Correlación de la variable desempleo mujer:
+
+```{r echo=FALSE, warning=FALSE}
+lillie.test(data$DesempleoMuj)
+lillie.test(data$DesigualdadGenero)
+```
+
+Ambas variables tienen una distribución que no son normales.
+
+```{r echo=FALSE, warning=FALSE}
+cor.test(data$DesempleoMuj, data$DesigualdadGenero, method = c("spearman"))
+```
+
+Sí hay una correlación directa pero débil.
+
+
+# Comprobación de modelos 
+
+## Modelo 1
+
+```{r echo=FALSE, warning=FALSE}
+modelo1=lm(data$DesigualdadGenero~data$VozPolitica)
+anova(modelo1)
+summary(modelo1)
+```
+
+El modelo sí es válido porque el p-value es menor a 0.05 y explica que el 15.3% de la variable desigualdad de género.
+
+Ecuación:
+
+y= 0.5160-0.0069*x
+ 
+ 
+## Modelo 2:
+
+```{r echo=FALSE, warning=FALSE}
+modelo2=lm(data$DesigualdadGenero~data$LibertadMov)
+anova(modelo2)
+summary(modelo2)
+```
+
+El modelo sí es válido porque el p-value es menor a 0.05 y explica el 22.2% de la variable desigualdad de género.
+
+Ecuación:
+
+y= 0.9280-0.0091*x
+
+## Modelo 3:
+
+```{r echo=FALSE, warning=FALSE}
+modelo3=lm(data$DesigualdadGenero~data$DesempleoMuj)
+anova(modelo3)
+summary(modelo3)
+```
+
+El modelo sí es válido porque el p-value es menor a 0.05 y explica el 11.79% de la variable desigualdad de género.
+
+Ecuación:
+
+y= 0.1231+0.1812*x
+
+
+
+```{r}
+stargazer(modelo1, modelo2, modelo3,type="text")
+```
+
+En estos tres modelos podemos ver que la variable de libertad de movimiento es la que más explica ya que lo hace en un 22.2% mientras que las otras lo hacen en 15.3% la participación de la mujer en el parlamento 11.8% en el desempleo. De esta manera,la desigualdad de género puede estar explicada en cierta parte por la inseguridad que sienten las mujeres ya que ellas no pueden sentir libertad de movimiento en un espacio predominado por los hombres
+
+
+# Construcción de modelos de regresión lineal múltiple:
+
+```{r echo=FALSE, warning=FALSE}
+modelo4=lm(data$DesigualdadGenero~data$LibertadMov+data$DesempleoMuj)
+anova(modelo4)
+summary(modelo4)
+```
+
+Ecuación:
+
+y= 0.6914-0.008105+0.139139
+
+```{r echo=FALSE, warning=FALSE}
+modelo5=lm(data$DesigualdadGenero~data$LibertadMov+data$DesempleoMuj+data$VozPolitica)
+anova(modelo5)
+summary(modelo5)
+```
+
+En este caso al comparar el modelo 4 que se toman dos variables predictoras entre ambas explican un 28.71% el modelo de la desigualdad de género no son tan explicada entre la variable de libertad de movimiento y desempleo de las mujeres. Mientras que en el modelo 5 podemos notar que las tres variables predictoras juntas explican el modelo en un 34.32% por lo que esta sería más representativa para que se puede explicar los niveles de desigualda.
+
+Ecuación:
+
+y = 0.7567-0.0070*libertadmov+0.1171*DesemploMuj-0.004508*VozPolitica 
+
+
+Ejemplo Yemen:
+
+68.0> libertad de movimeinto
+1.94> desemeplo
+
+```{r}
+0.7567-0.0070*68.0+0.1171*1.94
+```
+
+
+# Análisis descriptivo
+
+Así pues, teniendo en cuenta nuestro marco de estudio es que la literatura nos ha permitido seleccionar algunas variables referenciales importantes debido a que la desigualdad de género se observa desde diferentes espacios en cuestión del derecho al espacio público, libertad de movimiento y el goce sin limitaciones y con seguridad de este por parte de las mujeres ya que la forma que se vive en el espacio público es diferente ya que no es lo mismo ser una chica que un chico en el espacio público debido a que la movilidad espacial de los chicos está menos controlada que la de las chicas marcada por rol de género. 
+
+Por otro lado, el desempleo sigue reflejando grandes brechas de género en el acceso a oportunidades y derechos entre hombres y mujeres. Las desigualdades tienen su base en un sistema social que reproduce estereotipos y conserva una división sexual del trabajo que limita la inserción laboral de las mujeres. Estos factores estructurales representan un obstáculo para la superación de la pobreza y la desigualdad así como para la consecución de la autonomía económica de las mujeres, más aún si se considera el contexto actual de contracción del crecimiento. (Vasquez 2017,40)
+
+Mientras que desde el enfoque de género, el histórico contrato social que ha diferenciado los espacios de acción para hombres y mujeres, ha marginado a éstas últimas de la esfera pública. Con este escenario, difícilmente podrán las mujeres lograr el agenciamiento óptimo de sus necesidades y demandas. Resulta ineludible, entonces, su incorporación en las esferas de poder y toma de decisiones, a fin de que se generen agendas de género pertinentes y con ello contribuir, asimismo, a la profundización de la democracia con un nuevo carácter de legitimidad y representatividad pluralista y paritaria entre hombres y mujeres
+
+Es por ello que dentro de esta investigación hacemos un previo análisis descriptivos a partir de algunas variables seleccionadas. En primer lugar, podemos observar la variable de voz política en este caso el promedio de participación que tienen las mujeres en los parlamentos es del 24% a nivel muestral asi como que el 50% de la muestra solo representa que solo el 22.1% de mujeres se encuentran en los parlamentos. Así los gráficos también nos permiten notar que los valores se concentran en los rangos del 10-20% de participación y hay una tendencia a la izquierda. Mientras que en el boxplot podemos ver que no hay muchos valores dispersos y el 75% de las mujeres solo llega al 30% de participación. Asimismo, en el diagrama de correlación es una relación inversa, es decir que cuando un valor aumenta la otra disminuye, en este caso podemos decir que a mayor nivel de voz política menos desigualdad de género.
+
+En segundo lugar, la libertad de movilización se observa que el promedio de inseguridad de caminar en las calles en la noche es de 63.5% asi como que el máximo es cerca del 91.1%. Con respecto a los gráficos en el histograma se nota que la mayoría de los datos se encuentran concentrados entre los valores de 60 a 80% de nivel de inseguridad que afecta la libre movilización, así también con el boxplot se ve que el 50% de las mujeres sienten aproximadamente un 65% de inseguridad al movilizarse. Con ello podemos notar en el gráfico de dispersión es que la relación es inversa, es decir a mayor libertad de movilización menor tasa de desigualdad o viceversa. 
+
+Por último, el ratio de desempleabilidad de las mujeres en promedio es de 1.23 y el máximo es de 2.33, también en los gráficos se observa que hay una concentración y tendencia hacia la izquierda en la que los valores se concentran en el ratio 1. En el boxplot se observa que el 75% de las mujeres tienen un ratio de desempleabilidad del 1.7%. Por otro lado, en el gráfico de dispersión hay una relación directa en la que podemos deducir que a mayor desempleabilidad mayor desigualdad de género existe.
+
+Así resumiendo estas 3 variables se puede observar que las tasas de desigualdad de género son amplias y es realmente  preocupante porque se siguen manteniendo altos porcentajes de inseguridad y libertad de movimiento de las mujeres,también la tasa de desempleabilidad y participación de las mujeres en el parlamento siguen siendo bajas, a pesar que los países están tratando de erradicar esa desigualdad de género.
+
+También hemos realizado una comparación entre los modelos para poder que grupo explica más si le quitamos una variable, en este caso al comparar el modelo 5 que se toman dos variables predictoras entre ambas explican un 28.71% el modelo de la desigualdad de género no son tan explicadas entre la variable de libertad de movimiento y desempleo de las mujeres. Mientras que en el modelo 6 podemos notar que las tres variables predictoras juntas explican el modelo en un 34.32% por lo que esta sería más representativa para que se puede explicar los niveles de desigualdad. 
+
+Incluso, para poder predecir un valor con respecto a un país con altos grados de desigualdad decidimos escoger el país de Yemen en el que se toman los niveles porcentuales de la inseguridad de libertad de movimiento asi como el de la participación de mujeres en el parlamento El valor observado es de 0.83 de nivel de desigualdad de género en este país mientras que lo predicho a través del modelo de regresión se encontrado que es de 0.507. Lo que nos lleva a comentar que en este país los niveles de desigualdad de género son bastante altos y que además la mujer no tiene nada de representación y participación a nivel parlamentario, incluso que es uno de los países con mayor desempleabilidad de la mujer, siendo preocupante que las mujeres sigan manteniéndose en un sistema patriarcal y opresivo en la que se puede entender que la mujer sigue siendo vulnerada teniendo en cuenta también que este país se encuentra dentro de los más ultraconservadores.
+
+
+## Análisis Factorial:
+
+```{r warning=FALSE, include=FALSE}
+rownames(data) = data[,1]
+#Asignamos los nombres de acuerdo a la primera columna que es regiones, el 1 es de acuerdo a la posición
+```
+
+
+```{r warning=FALSE, include=FALSE}
+data = data[,-1]
+#Mencionamos que queremos todas las variables menos la 1 
+str(data)
+```
+
+```{r warning=FALSE, include=FALSE}
+subdata<-select(data,MLAutonomia,MLViolencia, VozPolitica, LibertadMov, DesconfianzaSJ, SecundariaC, DesempleoMuj,CuentaF)
+```
+
+
+```{r echo=FALSE, warning=FALSE}
+corMatrix=polycor::hetcor(subdata)$correlations
+corMatrix
+```
+
+```{r warning=FALSE, include=FALSE}
+str(subdata)
+```
+
+```{r warning=FALSE, include=FALSE}
+subdata$DesempleoMuj=as.numeric(subdata$DesempleoMuj)
+```
+
+
+```{r echo=FALSE, warning=FALSE}
+correlacion<-round(cor(subdata), 1) 
+corrplot(correlacion, method="number", type="upper")
+```
+
+```{r echo=FALSE, warning=FALSE}
+KMO(corMatrix)
+```
+
+
+```{r echo=FALSE, warning=FALSE}
+m.distancia <- get_dist(subdata, method = "euclidean")
+```
+
+```{r echo=FALSE, warning=FALSE}
+#Factor Común
+fa.parallel(subdata, fm="pa", fa="fa", main = "Gráfico de sedimentación Factor Comun")
+```
+
+```{r echo=FALSE, warning=FALSE}
+eigen<-eigen(cor(subdata, use="complete"))
+eigen$values
+```
+
+
+```{r echo=FALSE, warning=FALSE}
+disparidad <- fa(subdata,nfactors = 3,rotate = "varimax",fm="minres")
+```
+
+```{r echo=FALSE, warning=FALSE}
+print(disparidad$loadings)
+```
+
+```{r echo=FALSE, warning=FALSE}
+print(disparidad$loadings,cutoff = 0.5)
+```
+
+```{r echo=FALSE, warning=FALSE}
+fa.diagram(disparidad)
+```
+
+
+```{r warning=FALSE, include=FALSE}
+factorial_casos<-as.data.frame(disparidad$scores)
+head(factorial_casos)
+summary(factorial_casos)
+```
+
+
+```{r warning=FALSE, include=FALSE}
+subdata$factor1<- factorial_casos$MR1
+subdata$factor2<- factorial_casos$MR2
+subdata$factor3<- factorial_casos$MR3
+```
+
+
+```{r warning=FALSE, include=FALSE}
+subdata$factor1_normalizado = normalize(subdata$factor1, 
+                                        method = "range", 
+                                        margin=2, # by column
+                                        range = c(0, 100))
+subdata$factor2_normalizado = normalize(subdata$factor2, 
+                                        method = "range", 
+                                        margin=2, # by column
+                                        range = c(0, 100))
+subdata$factor3_normalizado = normalize(subdata$factor3, 
+                                        method = "range", 
+                                        margin=2, # by column
+                                        range = c(0, 100))
+summary(subdata$factor1_normalizado)
+```
+
+
+```{r echo=FALSE, warning=FALSE}
+hist(subdata$factor1_normalizado)
+```
+
+```{r warning=FALSE, include=FALSE}
+subdata$desigualdad=data$DesigualdadGenero
+
+mod1<-lm(subdata$desigualdad~ subdata$factor1_normalizado+ subdata$factor2_normalizado + subdata$factor3_normalizado)
+summary(mod1)
+```
+
+Ejemplo de país alto nivel de desigualdad de género
+
+Etiopia:
+
+```{r warning=FALSE, include=FALSE}
+Disp2=0.944479+(-0.00638*0.103752)+(-0.00013*0.100)+(-0.003956*0.7077)
+Disp2
+```
+
+Asi pues podemos observar y analizar que Etiopia, es uno de los paises como mas alto indice de desigualdad a nivel mundial, por lo que es bastante preocupante que a pesar que en estos últimos años existan organismos internacionales que velan por todas las personas. Asimismo, podemos ver que la reducción de variables en 3 factoriales no ayuda a explicar un 81% de la desigualdad. También mediante nuestra hipótesis planteada es que los factores sociales puede ser comprobada a través del agrupamiento que es el agrupamiento que meas explica con 49.6% de esta manera es que si permite afirmar nuestra hipótesis que lo social ya sea en materia de educación, cuenta en el banco y los derechos de salud como se muestran en las variables.
+
+
+# ANálisis de clusters
+
+
+```{r echo=FALSE, warning=FALSE}
+fviz_dist(m.distancia, gradient = list(low = "blue", mid = "white", high = "red"))
+```
+
+```{r echo=FALSE, warning=FALSE}
+resnumclust<-NbClust(data, distance = "euclidean", min.nc=2, max.nc=10, method = "kmeans", index = "alllong")
+fviz_nbclust(resnumclust)
+```
+
+
+```{r echo=FALSE, warning=FALSE}
+k1 <- kmeans(data, centers = 2, nstart = 25)
+k1
+```
+
+```{r echo=FALSE, warning=FALSE}
+fviz_cluster(k1, data = data, ellipse.type = "norm",palette = "Set2", ggtheme = theme_minimal())
+```
+
+2: Alta
+1: Baja
+
+
+```{r warning=FALSE, include=FALSE}
+data$clus<-as.factor(k1$cluster)
+```
+
+Recodificamos: el valor más alto es 1 y bajo 0.
+
+```{r warning=FALSE, include=FALSE}
+data$clus=car::recode(data$clus, "2=1; 1=0")
+```
+
+```{r warning=FALSE, include=FALSE}
+data$DesempleoMuj=as.factor(data$clus)
+levels(data$DesempleoMuj)=c("Bajo","Alto")
+table(data$DesempleoMuj)
+```
+
+Mediante en análisis de clusters tuvo como objetivo agrupa puntos de datos similares con el objetivo de descubrir patrones subyacentes. Para lograr este objetivo, k-means busca un número fijo (k) de agrupamientos (clústers) en el conjunto de datos. En este caso hemos decidido formar 2 agrupamientos entro los países que tienen mayor y menor niveles de desigualdad.
+
+
+# Conclusiones 
+
+Finalmente, hemos podido concluir que definitivamente la hipótesis planteada sobre que el factor social es lo que más influye en la desigualdad es comprobada y acertada mediante el análisis de datos y sobretodo mediante la operativización es importante que se haya notado que este favor es el más relevante, incluso en  vista desde el grado de posibilidad de acceso al consumo de bienes, servicios y conocimiento suele analizarse a través del tipo de actividad laboral realizada, sin embargo, se sabe que las ocupaciones se distribuyen según el contexto económico y, por tanto, generalmente excluyen a los colectivos que no están en el mercado de trabajo. De cualquier forma, la influencia en el desarrollo social de las características de la ocupación ha sido científicamente demostrada, el nivel socioeconómico funciona como una aproximación a las desigualdades sociales que encierran los diferentes rangos de ingresos dentro de una comunidad generando asi una ampliación entre las brechas sociales; asimismo, ejemplificando mediante algunos países es que hemos notado que en su mayoria los países del medio oriente y el Africa son los que tienen mayores indices de desigualdad de género en el factor social y no es de sorprenderse ya que el machismo es también una conducta social en el que se traducen en estereotipos y roles de género, influyen en comportamientos que pueden ser más o menos saludables, en tanto, desconfiguren el deber ser o que respondiendo a este, añadan malestares de cualquier índole a la corporeidad social y biológica de los seres humano. Es por ello, que dentro de un mundo con constantes cambios en la que es importante velar por la igualdad de las personas es que se debería hacer enfoque también en las organizaciones sociales e internacionales que permitan que las mujeres ya no se encuentran bajo el espectro del hombre y poder así caminar hacia una sociedad igualitaria sin abusos.
+
+
+https://youtu.be/jNNpwikOSc0
+
+
+
